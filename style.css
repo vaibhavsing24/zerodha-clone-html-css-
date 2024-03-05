@@ -1,0 +1,127 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 2px 1px 2px #b2afaff3;
+    
+   
+    padding-top:15px;
+    border: 0px;
+    
+}
+.logo{
+    margin-left: 200px;
+}
+.navbutton{
+    display: flex;
+    margin-right: 200px;
+    padding-bottom: 5px;
+}
+
+.signup {
+    padding: 20px;
+    color: #666;
+    text-decoration: none;
+}
+
+.about {
+    padding: 20px;
+    color: #666;
+    text-decoration: none;
+}
+
+.product {
+    padding: 20px;
+    color: #666;
+    text-decoration: none;
+}
+.pricing {
+    padding: 20px;
+    color: #666;
+    text-decoration: none;
+}
+.landing_page{
+    display: flex;
+    justify-content: center;
+}
+.landing_page_png{
+   
+    max-height: 45vh;
+}
+.h1{
+    color: #666;
+    font-size: 2.75rem;
+    line-height: 1.25;
+    display: flex;
+    justify-content: center;
+}
+.h2{
+    text-align: center;
+    color: #666;
+    line-height: 1.25;
+    font-size: 1.25rem;
+}
+.sign_up_now{
+    display: flex;
+    justify-content: center;
+    padding: 10px 30px;
+
+}
+.sign_up_now_button{
+    color: white;
+    font-size: 18px;
+    padding: 10px 30px;
+    text-align: center;
+    height: 44px;
+    width: 174px;
+    border: 1px solid white;
+    border-radius: 3px;   
+    background-color: #387ed1;
+}
+.promotion_row{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 140px;
+    margin-right: 140px;
+    color: black;
+}
+.largest_broker{
+    text-align: left;
+    width: 48%;
+    padding-left: 130px;
+}
+.largest_broker.h2{
+    color: #444141;
+   padding-left: -50px;
+    font-size: 20px;
+    line-height: 1.5;
+}
+.bulletin_point{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: square;
+    
+}
+.bulletin_point.a{
+    margin-left: 40px;
+}
+.bulletin_point.b{
+    margin-left: 40px;
+}
+.coloumn{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 200px;
+}
+.trust{
+    margin-left: 50px;
+}
+.h3{
+    font-size: 35px;
+    color: #444141;
+    font-weight: bold;
+}
+.rectangle{
+    width:200px;
+    height:200px;
+    border: #666 solid 0.5px;
+}
